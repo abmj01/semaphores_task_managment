@@ -172,4 +172,4 @@ scanners in the pickup location went to zero and there was 6 scanners already in
 scanner section, so the scanners was moved successfully and you can see in the end of the
 image that the upcoming customers took a handheld scanner.
 
-Thant was the end of this document I hope you benefited from the content of this documentation and can easily now implement important concepts in computer science such as task management which includes semaphores, mutexes, and threads.
+That was the end of this document I hope you benefited from the content of this documentation and can easily now implement important concepts in computer science such as task management which includes semaphores, mutexes, and threads.
